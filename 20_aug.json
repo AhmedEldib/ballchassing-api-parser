@@ -1,0 +1,603 @@
+{
+    "matches": [
+        {
+            "blue": {
+                "name": "REAL MADRID FC",
+                "match_id": "6cb4839e-e5cd-4515-a5d6-c11df14baa78",
+                "match_date": "2021-08-20T20:58:31Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198159249277"
+                        },
+                        "name": "Dumb",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1476,
+                                "total_distance": 485630
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 9,
+                                "goals": 2,
+                                "goals_against": 2,
+                                "saves": 3,
+                                "assists": 1,
+                                "score": 609,
+                                "mvp": true,
+                                "shooting_percentage": 66.666664
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198104641546"
+                        },
+                        "name": "Karim Benzema",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1506,
+                                "total_distance": 494026
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 9,
+                                "goals": 2,
+                                "goals_against": 2,
+                                "saves": 1,
+                                "assists": 1,
+                                "score": 534,
+                                "mvp": false,
+                                "shooting_percentage": 66.666664
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198835813575"
+                        },
+                        "name": "Gareth Bale",
+                        "car_name": "'99 Nissan Skyline GT-R R34",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1304,
+                                "total_distance": 427892
+                            },
+                            "core": {
+                                "shots": 0,
+                                "shots_against": 9,
+                                "goals": 0,
+                                "goals_against": 2,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 70,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 1
+                            }
+                        }
+                    }
+                ]
+            },
+            "orange": {
+                "name": "TRIPLE THREAT",
+                "match_id": "6cb4839e-e5cd-4515-a5d6-c11df14baa78",
+                "match_date": "2021-08-20T20:58:31Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198314770901"
+                        },
+                        "name": "SpeedTouch",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1612,
+                                "total_distance": 535203
+                            },
+                            "core": {
+                                "shots": 5,
+                                "shots_against": 6,
+                                "goals": 2,
+                                "goals_against": 4,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 340,
+                                "mvp": false,
+                                "shooting_percentage": 40
+                            },
+                            "demo": {
+                                "inflicted": 2,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "Freezee4ever"
+                        },
+                        "name": "Freezee4ever",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1466,
+                                "total_distance": 485946
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 6,
+                                "goals": 0,
+                                "goals_against": 4,
+                                "saves": 1,
+                                "assists": 1,
+                                "score": 185,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "1562497a1f0c4ca690a3a9fccfbd5ff0"
+                        },
+                        "name": "Natio2001",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1616,
+                                "total_distance": 530963
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 6,
+                                "goals": 0,
+                                "goals_against": 4,
+                                "saves": 1,
+                                "assists": 0,
+                                "score": 176,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 1
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "blue": {
+                "name": "REAL MADRID FC",
+                "match_id": "caff6b66-9b34-43f4-a2c7-23099ac0b526",
+                "match_date": "2021-08-20T21:21:02Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198159249277"
+                        },
+                        "name": "Dumb",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1521,
+                                "total_distance": 695184
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 14,
+                                "goals": 0,
+                                "goals_against": 3,
+                                "saves": 8,
+                                "assists": 2,
+                                "score": 933,
+                                "mvp": 1,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198835813575"
+                        },
+                        "name": "Gareth Bale",
+                        "car_name": "'99 Nissan Skyline GT-R R34",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1400,
+                                "total_distance": 643001
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 14,
+                                "goals": 2,
+                                "goals_against": 3,
+                                "saves": 0,
+                                "assists": 1,
+                                "score": 424,
+                                "mvp": 0,
+                                "shooting_percentage": 100
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198104641546"
+                        },
+                        "name": "Karim Benzema",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1448,
+                                "total_distance": 641739
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 14,
+                                "goals": 2,
+                                "goals_against": 3,
+                                "saves": 1,
+                                "assists": 0,
+                                "score": 417,
+                                "mvp": 0,
+                                "shooting_percentage": 100
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 4
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198306438173"
+                        },
+                        "name": "XtratoS",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 0,
+                                "total_distance": 0
+                            },
+                            "core": {
+                                "shots": 0,
+                                "shots_against": 5,
+                                "goals": 0,
+                                "goals_against": 0,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 0,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    }
+                ]
+            },
+            "orange": {
+                "name": "TRIPLE THREAT",
+                "match_id": "caff6b66-9b34-43f4-a2c7-23099ac0b526",
+                "match_date": "2021-08-20T21:21:02Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198314770901"
+                        },
+                        "name": "SpeedTouch",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1580,
+                                "total_distance": 728424
+                            },
+                            "core": {
+                                "shots": 7,
+                                "shots_against": 7,
+                                "goals": 2,
+                                "goals_against": 4,
+                                "saves": 2,
+                                "assists": 1,
+                                "score": 630,
+                                "mvp": 1,
+                                "shooting_percentage": 40
+                            },
+                            "demo": {
+                                "inflicted": 2,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "1562497a1f0c4ca690a3a9fccfbd5ff0"
+                        },
+                        "name": "Natio2001",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1660,
+                                "total_distance": 776594
+                            },
+                            "core": {
+                                "shots": 4,
+                                "shots_against": 7,
+                                "goals": 0,
+                                "goals_against": 4,
+                                "saves": 1,
+                                "assists": 1,
+                                "score": 408,
+                                "mvp": 0,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 3,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "Freezee4ever"
+                        },
+                        "name": "Freezee4ever",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1465,
+                                "total_distance": 641746
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 7,
+                                "goals": 1,
+                                "goals_against": 4,
+                                "saves": 0,
+                                "assists": 1,
+                                "score": 228,
+                                "mvp": 0,
+                                "shooting_percentage": 33.333332
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "blue": {
+                "name": "REAL MADRID FC",
+                "match_id": "ee8e3ac2-b614-4c63-81c8-6f19f162233f",
+                "match_date": "2021-08-20T20:50:21Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198104641546"
+                        },
+                        "name": "Karim Benzema",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1428,
+                                "total_distance": 474047
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 7,
+                                "goals": 2,
+                                "goals_against": 2,
+                                "saves": 0,
+                                "assists": 1,
+                                "score": 499,
+                                "mvp": true,
+                                "shooting_percentage": 100
+                            },
+                            "demo": {
+                                "inflicted": 2,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198159249277"
+                        },
+                        "name": "Dumb",
+                        "car_name": "Esper",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1470,
+                                "total_distance": 483409
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 7,
+                                "goals": 1,
+                                "goals_against": 2,
+                                "saves": 1,
+                                "assists": 1,
+                                "score": 398,
+                                "mvp": false,
+                                "shooting_percentage": 50
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198835813575"
+                        },
+                        "name": "Gareth Bale",
+                        "car_name": "'99 Nissan Skyline GT-R R34",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1370,
+                                "total_distance": 453564
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 7,
+                                "goals": 0,
+                                "goals_against": 2,
+                                "saves": 2,
+                                "assists": 1,
+                                "score": 222,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 1
+                            }
+                        }
+                    }
+                ]
+            },
+            "orange": {
+                "name": "TRIPLE THREAT",
+                "match_id": "ee8e3ac2-b614-4c63-81c8-6f19f162233f",
+                "match_date": "2021-08-20T20:50:21Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "1562497a1f0c4ca690a3a9fccfbd5ff0"
+                        },
+                        "name": "Natio2001",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1655,
+                                "total_distance": 540643
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 6,
+                                "goals": 2,
+                                "goals_against": 3,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 360,
+                                "mvp": false,
+                                "shooting_percentage": 66.666664
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 2
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198314770901"
+                        },
+                        "name": "SpeedTouch",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1547,
+                                "total_distance": 511024
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 6,
+                                "goals": 0,
+                                "goals_against": 3,
+                                "saves": 2,
+                                "assists": 2,
+                                "score": 346,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "Freezee4ever"
+                        },
+                        "name": "Freezee4ever",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1364,
+                                "total_distance": 447721
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 6,
+                                "goals": 0,
+                                "goals_against": 3,
+                                "saves": 1,
+                                "assists": 0,
+                                "score": 204,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,764 @@
+{
+    "matches": [
+        {
+            "blue": {
+                "name": "NIGGERS",
+                "match_id": "3005a775-b84d-4e01-b8cd-d4eecafe2385",
+                "match_date": "2021-08-23T21:52:31+02:00",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "51104b5ef1f542f0bbab05a11cd6e161"
+                        },
+                        "name": "LakzInASlump",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1458,
+                                "total_distance": 478303
+                            },
+                            "core": {
+                                "shots": 4,
+                                "shots_against": 7,
+                                "goals": 2,
+                                "goals_against": 2,
+                                "saves": 3,
+                                "assists": 0,
+                                "score": 491,
+                                "mvp": true,
+                                "shooting_percentage": 50
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "Haithomianzz"
+                        },
+                        "name": "Haithomianzz",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1277,
+                                "total_distance": 420265
+                            },
+                            "core": {
+                                "shots": 0,
+                                "shots_against": 7,
+                                "goals": 0,
+                                "goals_against": 2,
+                                "saves": 2,
+                                "assists": 0,
+                                "score": 204,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "Vertzoz"
+                        },
+                        "name": "Vertzoz",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1486,
+                                "total_distance": 483576
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 7,
+                                "goals": 1,
+                                "goals_against": 2,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 196,
+                                "mvp": false,
+                                "shooting_percentage": 50
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    }
+                ]
+            },
+            "orange": {
+                "name": "WHITES",
+                "match_id": "3005a775-b84d-4e01-b8cd-d4eecafe2385",
+                "match_date": "2021-08-23T21:52:31+02:00",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "62d668b48e834a7caaabeac87660117f"
+                        },
+                        "name": "Jasminea_",
+                        "car_name": "Dominus",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1520,
+                                "total_distance": 497727
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 6,
+                                "goals": 2,
+                                "goals_against": 3,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 350,
+                                "mvp": false,
+                                "shooting_percentage": 66.666664
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "cd708536d4ea47c8b63bbf211de9b300"
+                        },
+                        "name": "rfkill",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1456,
+                                "total_distance": 474829
+                            },
+                            "core": {
+                                "shots": 4,
+                                "shots_against": 6,
+                                "goals": 0,
+                                "goals_against": 3,
+                                "saves": 0,
+                                "assists": 1,
+                                "score": 250,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "759153e81c9a4f969af5ae0be5fd7e9c"
+                        },
+                        "name": "aymaanfawzy",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1074,
+                                "total_distance": 334750
+                            },
+                            "core": {
+                                "shots": 0,
+                                "shots_against": 6,
+                                "goals": 0,
+                                "goals_against": 3,
+                                "saves": 1,
+                                "assists": 0,
+                                "score": 198,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "blue": {
+                "name": "NIGGERS",
+                "match_id": "2840998b-9606-49b6-bbda-07a4a679a20b",
+                "match_date": "2021-08-23T21:43:13+02:00",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "51104b5ef1f542f0bbab05a11cd6e161"
+                        },
+                        "name": "LakzInASlump",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1483,
+                                "total_distance": 731215
+                            },
+                            "core": {
+                                "shots": 8,
+                                "shots_against": 7,
+                                "goals": 0,
+                                "goals_against": 3,
+                                "saves": 1,
+                                "assists": 1,
+                                "score": 444,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "Haithomianzz"
+                        },
+                        "name": "Haithomianzz",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1356,
+                                "total_distance": 659863
+                            },
+                            "core": {
+                                "shots": 4,
+                                "shots_against": 7,
+                                "goals": 1,
+                                "goals_against": 3,
+                                "saves": 0,
+                                "assists": 1,
+                                "score": 372,
+                                "mvp": false,
+                                "shooting_percentage": 25
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 2
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "Vertzoz"
+                        },
+                        "name": "Vertzoz",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1453,
+                                "total_distance": 708427
+                            },
+                            "core": {
+                                "shots": 0,
+                                "shots_against": 7,
+                                "goals": 1,
+                                "goals_against": 3,
+                                "saves": 2,
+                                "assists": 0,
+                                "score": 260,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 1
+                            }
+                        }
+                    }
+                ]
+            },
+            "orange": {
+                "name": "WHITES",
+                "match_id": "2840998b-9606-49b6-bbda-07a4a679a20b",
+                "match_date": "2021-08-23T21:43:13+02:00",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "cd708536d4ea47c8b63bbf211de9b300"
+                        },
+                        "name": "rfkill",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1346,
+                                "total_distance": 657355
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 12,
+                                "goals": 2,
+                                "goals_against": 2,
+                                "saves": 3,
+                                "assists": 0,
+                                "score": 650,
+                                "mvp": true,
+                                "shooting_percentage": 66.666664
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "62d668b48e834a7caaabeac87660117f"
+                        },
+                        "name": "Jasminea_",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1480,
+                                "total_distance": 724374
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 12,
+                                "goals": 0,
+                                "goals_against": 2,
+                                "saves": 3,
+                                "assists": 2,
+                                "score": 495,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 2,
+                                "taken": 1
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "759153e81c9a4f969af5ae0be5fd7e9c"
+                        },
+                        "name": "aymaanfawzy",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1163,
+                                "total_distance": 557807
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 12,
+                                "goals": 1,
+                                "goals_against": 2,
+                                "saves": 3,
+                                "assists": 1,
+                                "score": 490,
+                                "mvp": false,
+                                "shooting_percentage": 33.333332
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "blue": {
+                "name": "NIGGERS",
+                "match_id": "937779bb-1071-444e-bc7e-f29d80e1813d",
+                "match_date": "2021-08-23T21:33:03+02:00",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "51104b5ef1f542f0bbab05a11cd6e161"
+                        },
+                        "name": "LakzInASlump",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1442,
+                                "total_distance": 455598
+                            },
+                            "core": {
+                                "shots": 4,
+                                "shots_against": 2,
+                                "goals": 1,
+                                "goals_against": 0,
+                                "saves": 1,
+                                "assists": 0,
+                                "score": 282,
+                                "mvp": true,
+                                "shooting_percentage": 25
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "Haithomianzz"
+                        },
+                        "name": "Haithomianzz",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1359,
+                                "total_distance": 433541
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 2,
+                                "goals": 1,
+                                "goals_against": 0,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 232,
+                                "mvp": false,
+                                "shooting_percentage": 33.333332
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "Vertzoz"
+                        },
+                        "name": "Vertzoz",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1433,
+                                "total_distance": 456618
+                            },
+                            "core": {
+                                "shots": 0,
+                                "shots_against": 2,
+                                "goals": 0,
+                                "goals_against": 0,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 44,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    }
+                ]
+            },
+            "orange": {
+                "name": "WHITES",
+                "match_id": "937779bb-1071-444e-bc7e-f29d80e1813d",
+                "match_date": "2021-08-23T21:33:03+02:00",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "cd708536d4ea47c8b63bbf211de9b300"
+                        },
+                        "name": "rfkill",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1396,
+                                "total_distance": 444209
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 7,
+                                "goals": 0,
+                                "goals_against": 2,
+                                "saves": 2,
+                                "assists": 0,
+                                "score": 234,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "62d668b48e834a7caaabeac87660117f"
+                        },
+                        "name": "Jasminea_",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1487,
+                                "total_distance": 474500
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 7,
+                                "goals": 0,
+                                "goals_against": 2,
+                                "saves": 2,
+                                "assists": 0,
+                                "score": 214,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "759153e81c9a4f969af5ae0be5fd7e9c"
+                        },
+                        "name": "aymaanfawzy",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1097,
+                                "total_distance": 347115
+                            },
+                            "core": {
+                                "shots": 0,
+                                "shots_against": 7,
+                                "goals": 0,
+                                "goals_against": 2,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 38,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 0
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "blue": {
+                "name": "NIGGERS",
+                "match_id": "8aa90798-1974-4629-a6ff-f95edb3bbe51",
+                "match_date": "2021-08-23T21:26:04+02:00",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "Vertzoz"
+                        },
+                        "name": "Vertzoz",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1462,
+                                "total_distance": 464709
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 5,
+                                "goals": 2,
+                                "goals_against": 1,
+                                "saves": 2,
+                                "assists": 0,
+                                "score": 397,
+                                "mvp": true,
+                                "shooting_percentage": 66.666664
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "51104b5ef1f542f0bbab05a11cd6e161"
+                        },
+                        "name": "LakzInASlump",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1471,
+                                "total_distance": 468464
+                            },
+                            "core": {
+                                "shots": 5,
+                                "shots_against": 5,
+                                "goals": 0,
+                                "goals_against": 1,
+                                "saves": 2,
+                                "assists": 0,
+                                "score": 302,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "Haithomianzz"
+                        },
+                        "name": "Haithomianzz",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1425,
+                                "total_distance": 453376
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 5,
+                                "goals": 0,
+                                "goals_against": 1,
+                                "saves": 0,
+                                "assists": 1,
+                                "score": 212,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 0
+                            }
+                        }
+                    }
+                ]
+            },
+            "orange": {
+                "name": "WHITES",
+                "match_id": "8aa90798-1974-4629-a6ff-f95edb3bbe51",
+                "match_date": "2021-08-23T21:26:04+02:00",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "cd708536d4ea47c8b63bbf211de9b300"
+                        },
+                        "name": "rfkill",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1374,
+                                "total_distance": 432680
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 9,
+                                "goals": 1,
+                                "goals_against": 2,
+                                "saves": 1,
+                                "assists": 0,
+                                "score": 317,
+                                "mvp": false,
+                                "shooting_percentage": 50
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "759153e81c9a4f969af5ae0be5fd7e9c"
+                        },
+                        "name": "aymaanfawzy",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1222,
+                                "total_distance": 386003
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 9,
+                                "goals": 0,
+                                "goals_against": 2,
+                                "saves": 2,
+                                "assists": 0,
+                                "score": 238,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "62d668b48e834a7caaabeac87660117f"
+                        },
+                        "name": "Jasminea_",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1486,
+                                "total_distance": 471314
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 9,
+                                "goals": 0,
+                                "goals_against": 2,
+                                "saves": 1,
+                                "assists": 1,
+                                "score": 220,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

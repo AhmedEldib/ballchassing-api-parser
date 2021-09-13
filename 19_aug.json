@@ -1,0 +1,1904 @@
+{
+    "matches": [
+        {
+            "blue": {
+                "name": "MANGA",
+                "match_id": "59469a42-04dd-4368-8d9b-2d2996b5a9e2",
+                "match_date": "2021-08-19T21:49:54Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "1bc6c6733f0d423785729728aa04f8b4"
+                        },
+                        "name": "MrWeza7",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1394,
+                                "total_distance": 463087
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 5,
+                                "goals": 1,
+                                "goals_against": 4,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 218,
+                                "mvp": false,
+                                "shooting_percentage": 50
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "ak559ram"
+                        },
+                        "name": "ak559ram",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1557,
+                                "total_distance": 517195
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 5,
+                                "goals": 0,
+                                "goals_against": 4,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 190,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "fc1a9af1c0b9488fb678a07b79392cad"
+                        },
+                        "name": "TR BeShOy",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1562,
+                                "total_distance": 519549
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 5,
+                                "goals": 0,
+                                "goals_against": 4,
+                                "saves": 0,
+                                "assists": 1,
+                                "score": 178,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 4,
+                                "taken": 1
+                            }
+                        }
+                    }
+                ]
+            },
+            "orange": {
+                "name": "BABABOOEY",
+                "match_id": "59469a42-04dd-4368-8d9b-2d2996b5a9e2",
+                "match_date": "2021-08-19T21:49:54Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198808310871"
+                        },
+                        "name": "3R7",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1438,
+                                "total_distance": 480490
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 6,
+                                "goals": 2,
+                                "goals_against": 1,
+                                "saves": 2,
+                                "assists": 1,
+                                "score": 479,
+                                "mvp": true,
+                                "shooting_percentage": 100
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198274220626"
+                        },
+                        "name": "Omar",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1667,
+                                "total_distance": 551014
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 6,
+                                "goals": 1,
+                                "goals_against": 1,
+                                "saves": 1,
+                                "assists": 1,
+                                "score": 364,
+                                "mvp": false,
+                                "shooting_percentage": 50
+                            },
+                            "demo": {
+                                "inflicted": 2,
+                                "taken": 2
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198825245008"
+                        },
+                        "name": "I3bdoGX",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1487,
+                                "total_distance": 497291
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 6,
+                                "goals": 1,
+                                "goals_against": 1,
+                                "saves": 1,
+                                "assists": 1,
+                                "score": 290,
+                                "mvp": false,
+                                "shooting_percentage": 100
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "blue": {
+                "name": "MANGA",
+                "match_id": "b033ea40-aebf-46c0-8cd4-d8fa884a568f",
+                "match_date": "2021-08-19T21:42:02Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "ak559ram"
+                        },
+                        "name": "ak559ram",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1474,
+                                "total_distance": 532618
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 11,
+                                "goals": 1,
+                                "goals_against": 3,
+                                "saves": 3,
+                                "assists": 0,
+                                "score": 497,
+                                "mvp": false,
+                                "shooting_percentage": 33.333332
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "fc1a9af1c0b9488fb678a07b79392cad"
+                        },
+                        "name": "TR BeShOy",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1580,
+                                "total_distance": 560496
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 11,
+                                "goals": 0,
+                                "goals_against": 3,
+                                "saves": 2,
+                                "assists": 1,
+                                "score": 360,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 2
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "1bc6c6733f0d423785729728aa04f8b4"
+                        },
+                        "name": "MrWeza7",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1308,
+                                "total_distance": 467594
+                            },
+                            "core": {
+                                "shots": 4,
+                                "shots_against": 11,
+                                "goals": 1,
+                                "goals_against": 3,
+                                "saves": 0,
+                                "assists": 1,
+                                "score": 302,
+                                "mvp": false,
+                                "shooting_percentage": 25
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    }
+                ]
+            },
+            "orange": {
+                "name": "BABABOOEY",
+                "match_id": "b033ea40-aebf-46c0-8cd4-d8fa884a568f",
+                "match_date": "2021-08-19T21:42:02Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198808310871"
+                        },
+                        "name": "3R7",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1522,
+                                "total_distance": 539393
+                            },
+                            "core": {
+                                "shots": 4,
+                                "shots_against": 9,
+                                "goals": 1,
+                                "goals_against": 2,
+                                "saves": 2,
+                                "assists": 1,
+                                "score": 548,
+                                "mvp": true,
+                                "shooting_percentage": 25
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198274220626"
+                        },
+                        "name": "Omar",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1684,
+                                "total_distance": 607240
+                            },
+                            "core": {
+                                "shots": 4,
+                                "shots_against": 9,
+                                "goals": 2,
+                                "goals_against": 2,
+                                "saves": 1,
+                                "assists": 1,
+                                "score": 447,
+                                "mvp": false,
+                                "shooting_percentage": 50
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198825245008"
+                        },
+                        "name": "I3bdoGX",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1432,
+                                "total_distance": 515600
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 9,
+                                "goals": 0,
+                                "goals_against": 2,
+                                "saves": 2,
+                                "assists": 1,
+                                "score": 232,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "blue": {
+                "name": "GROG",
+                "match_id": "8b3f7669-9bb3-4ca5-b4c1-291dfc3287e9",
+                "match_date": "2021-08-19T22:43:23Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198452996823"
+                        },
+                        "name": "u are noob",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1553,
+                                "total_distance": 522801
+                            },
+                            "core": {
+                                "shots": 5,
+                                "shots_against": 5,
+                                "goals": 3,
+                                "goals_against": 2,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 499,
+                                "mvp": true,
+                                "shooting_percentage": 60
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "ABDOx5OD"
+                        },
+                        "name": "ABDOx5OD",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1373,
+                                "total_distance": 459910
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 5,
+                                "goals": 1,
+                                "goals_against": 2,
+                                "saves": 1,
+                                "assists": 1,
+                                "score": 332,
+                                "mvp": false,
+                                "shooting_percentage": 100
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 1
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561199049741033"
+                        },
+                        "name": "ancient rl",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1567,
+                                "total_distance": 528987
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 5,
+                                "goals": 0,
+                                "goals_against": 2,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 116,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 2,
+                                "taken": 0
+                            }
+                        }
+                    }
+                ]
+            },
+            "orange": {
+                "name": "NIGHT EAGLES",
+                "match_id": "8b3f7669-9bb3-4ca5-b4c1-291dfc3287e9",
+                "match_date": "2021-08-19T22:43:23Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "Syco-Smsm"
+                        },
+                        "name": "Syco-Smsm",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1498,
+                                "total_distance": 498745
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 7,
+                                "goals": 1,
+                                "goals_against": 4,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 268,
+                                "mvp": false,
+                                "shooting_percentage": 100
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 1
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "b3dd50fdd16841eeba9a7a638934da3b"
+                        },
+                        "name": "S7vB",
+                        "car_name": "Dominus",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1377,
+                                "total_distance": 452910
+                            },
+                            "core": {
+                                "shots": 0,
+                                "shots_against": 7,
+                                "goals": 0,
+                                "goals_against": 4,
+                                "saves": 2,
+                                "assists": 1,
+                                "score": 261,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 2
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198999774422"
+                        },
+                        "name": "AJ",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1436,
+                                "total_distance": 481829
+                            },
+                            "core": {
+                                "shots": 4,
+                                "shots_against": 7,
+                                "goals": 1,
+                                "goals_against": 4,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 250,
+                                "mvp": false,
+                                "shooting_percentage": 25
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "blue": {
+                "name": "MANSOURA",
+                "match_id": "6f8599a8-8ffa-4071-80d6-d3cbb42784d4",
+                "match_date": "2021-08-19T21:16:24Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198345006368"
+                        },
+                        "name": "N O T E.",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1298,
+                                "total_distance": 417901
+                            },
+                            "core": {
+                                "shots": 4,
+                                "shots_against": 8,
+                                "goals": 1,
+                                "goals_against": 2,
+                                "saves": 1,
+                                "assists": 0,
+                                "score": 316,
+                                "mvp": false,
+                                "shooting_percentage": 25
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198432243003"
+                        },
+                        "name": "V",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1385,
+                                "total_distance": 447126
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 8,
+                                "goals": 0,
+                                "goals_against": 2,
+                                "saves": 3,
+                                "assists": 0,
+                                "score": 298,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198357616630"
+                        },
+                        "name": "Evo.",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1477,
+                                "total_distance": 473095
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 8,
+                                "goals": 0,
+                                "goals_against": 2,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 196,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    }
+                ]
+            },
+            "orange": {
+                "name": "BBL",
+                "match_id": "6f8599a8-8ffa-4071-80d6-d3cbb42784d4",
+                "match_date": "2021-08-19T21:16:24Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198400702566"
+                        },
+                        "name": "LIGHT",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1573,
+                                "total_distance": 510210
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 6,
+                                "goals": 1,
+                                "goals_against": 1,
+                                "saves": 1,
+                                "assists": 1,
+                                "score": 346,
+                                "mvp": true,
+                                "shooting_percentage": 100
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "9a992165c2364f1a883b10fc5327da98"
+                        },
+                        "name": "Blaster.isbanned",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1608,
+                                "total_distance": 521892
+                            },
+                            "core": {
+                                "shots": 4,
+                                "shots_against": 6,
+                                "goals": 1,
+                                "goals_against": 1,
+                                "saves": 1,
+                                "assists": 0,
+                                "score": 339,
+                                "mvp": false,
+                                "shooting_percentage": 25
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198815724073"
+                        },
+                        "name": "Bsharp",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1508,
+                                "total_distance": 484795
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 6,
+                                "goals": 0,
+                                "goals_against": 1,
+                                "saves": 1,
+                                "assists": 1,
+                                "score": 260,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "blue": {
+                "name": "MANSOURA",
+                "match_id": "02b1750e-6ab2-4551-86cc-13f06c4356ff",
+                "match_date": "2021-08-19T20:46:21Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198357616630"
+                        },
+                        "name": "Evo.",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1479,
+                                "total_distance": 466118
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 3,
+                                "goals": 2,
+                                "goals_against": 0,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 472,
+                                "mvp": true,
+                                "shooting_percentage": 66.666664
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198345006368"
+                        },
+                        "name": "N O T E.",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1449,
+                                "total_distance": 454563
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 3,
+                                "goals": 1,
+                                "goals_against": 0,
+                                "saves": 1,
+                                "assists": 0,
+                                "score": 371,
+                                "mvp": false,
+                                "shooting_percentage": 50
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198432243003"
+                        },
+                        "name": "V",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1411,
+                                "total_distance": 443682
+                            },
+                            "core": {
+                                "shots": 0,
+                                "shots_against": 3,
+                                "goals": 0,
+                                "goals_against": 0,
+                                "saves": 2,
+                                "assists": 2,
+                                "score": 266,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    }
+                ]
+            },
+            "orange": {
+                "name": "BBL",
+                "match_id": "02b1750e-6ab2-4551-86cc-13f06c4356ff",
+                "match_date": "2021-08-19T20:46:21Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198815724073"
+                        },
+                        "name": "Bsharp",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1571,
+                                "total_distance": 498102
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 5,
+                                "goals": 0,
+                                "goals_against": 3,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 164,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 2,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198400702566"
+                        },
+                        "name": "LIGHT",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1660,
+                                "total_distance": 525600
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 5,
+                                "goals": 0,
+                                "goals_against": 3,
+                                "saves": 1,
+                                "assists": 0,
+                                "score": 154,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "9a992165c2364f1a883b10fc5327da98"
+                        },
+                        "name": "Blaster.isbanned",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1489,
+                                "total_distance": 471107
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 5,
+                                "goals": 0,
+                                "goals_against": 3,
+                                "saves": 1,
+                                "assists": 0,
+                                "score": 130,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "blue": {
+                "name": "GROG",
+                "match_id": "43590812-d645-48ed-8702-485d18e5e706",
+                "match_date": "2021-08-19T22:34:38Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198452996823"
+                        },
+                        "name": "u are noob",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1557,
+                                "total_distance": 489421
+                            },
+                            "core": {
+                                "shots": 5,
+                                "shots_against": 6,
+                                "goals": 2,
+                                "goals_against": 0,
+                                "saves": 1,
+                                "assists": 0,
+                                "score": 432,
+                                "mvp": true,
+                                "shooting_percentage": 40
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561199049741033"
+                        },
+                        "name": "ancient rl",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1514,
+                                "total_distance": 477072
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 6,
+                                "goals": 0,
+                                "goals_against": 0,
+                                "saves": 3,
+                                "assists": 0,
+                                "score": 249,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "ABDOx5OD"
+                        },
+                        "name": "ABDOx5OD",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1350,
+                                "total_distance": 425265
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 6,
+                                "goals": 0,
+                                "goals_against": 0,
+                                "saves": 0,
+                                "assists": 1,
+                                "score": 210,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    }
+                ]
+            },
+            "orange": {
+                "name": "NIGHT EAGLES",
+                "match_id": "43590812-d645-48ed-8702-485d18e5e706",
+                "match_date": "2021-08-19T22:34:38Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198999774422"
+                        },
+                        "name": "AJ",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1430,
+                                "total_distance": 450768
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 9,
+                                "goals": 0,
+                                "goals_against": 2,
+                                "saves": 2,
+                                "assists": 0,
+                                "score": 274,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "Syco-Smsm"
+                        },
+                        "name": "Syco-Smsm",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1465,
+                                "total_distance": 456697
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 9,
+                                "goals": 0,
+                                "goals_against": 2,
+                                "saves": 1,
+                                "assists": 0,
+                                "score": 213,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "b3dd50fdd16841eeba9a7a638934da3b"
+                        },
+                        "name": "S7vB",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1512,
+                                "total_distance": 475503
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 9,
+                                "goals": 0,
+                                "goals_against": 2,
+                                "saves": 2,
+                                "assists": 0,
+                                "score": 200,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "blue": {
+                "name": "GROG",
+                "match_id": "5afc3c62-67fe-4a8f-8fc8-4dd5c8f64a26",
+                "match_date": "2021-08-19T22:27:18Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198452996823"
+                        },
+                        "name": "u are noob",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1549,
+                                "total_distance": 507623
+                            },
+                            "core": {
+                                "shots": 7,
+                                "shots_against": 5,
+                                "goals": 2,
+                                "goals_against": 2,
+                                "saves": 0,
+                                "assists": 1,
+                                "score": 510,
+                                "mvp": true,
+                                "shooting_percentage": 28.571428
+                            },
+                            "demo": {
+                                "inflicted": 2,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561199049741033"
+                        },
+                        "name": "ancient rl",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1543,
+                                "total_distance": 507219
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 5,
+                                "goals": 1,
+                                "goals_against": 2,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 284,
+                                "mvp": false,
+                                "shooting_percentage": 33.333332
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "ABDOx5OD"
+                        },
+                        "name": "ABDOx5OD",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1446,
+                                "total_distance": 476357
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 5,
+                                "goals": 0,
+                                "goals_against": 2,
+                                "saves": 1,
+                                "assists": 2,
+                                "score": 278,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 0
+                            }
+                        }
+                    }
+                ]
+            },
+            "orange": {
+                "name": "NIGHT EAGLES",
+                "match_id": "5afc3c62-67fe-4a8f-8fc8-4dd5c8f64a26",
+                "match_date": "2021-08-19T22:27:18Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198999774422"
+                        },
+                        "name": "AJ",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1463,
+                                "total_distance": 480284
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 12,
+                                "goals": 1,
+                                "goals_against": 3,
+                                "saves": 4,
+                                "assists": 0,
+                                "score": 599,
+                                "mvp": false,
+                                "shooting_percentage": 50
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "b3dd50fdd16841eeba9a7a638934da3b"
+                        },
+                        "name": "S7vB",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1473,
+                                "total_distance": 474068
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 12,
+                                "goals": 1,
+                                "goals_against": 3,
+                                "saves": 1,
+                                "assists": 1,
+                                "score": 332,
+                                "mvp": false,
+                                "shooting_percentage": 50
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 2
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "Syco-Smsm"
+                        },
+                        "name": "Syco-Smsm",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1467,
+                                "total_distance": 478571
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 12,
+                                "goals": 0,
+                                "goals_against": 3,
+                                "saves": 1,
+                                "assists": 0,
+                                "score": 158,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "blue": {
+                "name": "MANSOURA",
+                "match_id": "952aa0f5-42ed-4cd9-a6f0-6b698f24f1a6",
+                "match_date": "2021-08-19T20:57:23Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198357616630"
+                        },
+                        "name": "Evo.",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1428,
+                                "total_distance": 624554
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 19,
+                                "goals": 2,
+                                "goals_against": 5,
+                                "saves": 7,
+                                "assists": 0,
+                                "score": 824,
+                                "mvp": false,
+                                "shooting_percentage": 66.666664
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198432243003"
+                        },
+                        "name": "V",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1332,
+                                "total_distance": 577936
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 19,
+                                "goals": 1,
+                                "goals_against": 5,
+                                "saves": 3,
+                                "assists": 0,
+                                "score": 439,
+                                "mvp": false,
+                                "shooting_percentage": 50
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198345006368"
+                        },
+                        "name": "N O T E.",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1372,
+                                "total_distance": 587419
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 19,
+                                "goals": 1,
+                                "goals_against": 5,
+                                "saves": 3,
+                                "assists": 0,
+                                "score": 408,
+                                "mvp": false,
+                                "shooting_percentage": 100
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 3
+                            }
+                        }
+                    }
+                ]
+            },
+            "orange": {
+                "name": "BBL",
+                "match_id": "952aa0f5-42ed-4cd9-a6f0-6b698f24f1a6",
+                "match_date": "2021-08-19T20:57:23Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "9a992165c2364f1a883b10fc5327da98"
+                        },
+                        "name": "Blaster.isbanned",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1562,
+                                "total_distance": 684192
+                            },
+                            "core": {
+                                "shots": 9,
+                                "shots_against": 6,
+                                "goals": 2,
+                                "goals_against": 4,
+                                "saves": 1,
+                                "assists": 1,
+                                "score": 634,
+                                "mvp": true,
+                                "shooting_percentage": 22.222221
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198400702566"
+                        },
+                        "name": "LIGHT",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1615,
+                                "total_distance": 709712
+                            },
+                            "core": {
+                                "shots": 7,
+                                "shots_against": 6,
+                                "goals": 2,
+                                "goals_against": 4,
+                                "saves": 0,
+                                "assists": 1,
+                                "score": 459,
+                                "mvp": false,
+                                "shooting_percentage": 28.571428
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198815724073"
+                        },
+                        "name": "Bsharp",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1557,
+                                "total_distance": 678886
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 6,
+                                "goals": 1,
+                                "goals_against": 4,
+                                "saves": 0,
+                                "assists": 1,
+                                "score": 318,
+                                "mvp": false,
+                                "shooting_percentage": 33.333332
+                            },
+                            "demo": {
+                                "inflicted": 3,
+                                "taken": 1
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "blue": {
+                "name": "MANSOURA",
+                "match_id": "fc57f9a9-ada3-47ab-816c-9c8b51bcfba8",
+                "match_date": "2021-08-19T21:08:44Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198432243003"
+                        },
+                        "name": "V",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1392,
+                                "total_distance": 578013
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 10,
+                                "goals": 1,
+                                "goals_against": 4,
+                                "saves": 4,
+                                "assists": 1,
+                                "score": 535,
+                                "mvp": false,
+                                "shooting_percentage": 33.333332
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198357616630"
+                        },
+                        "name": "Evo.",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1480,
+                                "total_distance": 611337
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 10,
+                                "goals": 2,
+                                "goals_against": 4,
+                                "saves": 2,
+                                "assists": 0,
+                                "score": 529,
+                                "mvp": false,
+                                "shooting_percentage": 66.666664
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198345006368"
+                        },
+                        "name": "N O T E.",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1365,
+                                "total_distance": 562241
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 10,
+                                "goals": 0,
+                                "goals_against": 4,
+                                "saves": 1,
+                                "assists": 1,
+                                "score": 282,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 2
+                            }
+                        }
+                    }
+                ]
+            },
+            "orange": {
+                "name": "BBL",
+                "match_id": "fc57f9a9-ada3-47ab-816c-9c8b51bcfba8",
+                "match_date": "2021-08-19T21:08:44Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198400702566"
+                        },
+                        "name": "LIGHT",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1476,
+                                "total_distance": 616517
+                            },
+                            "core": {
+                                "shots": 4,
+                                "shots_against": 8,
+                                "goals": 2,
+                                "goals_against": 3,
+                                "saves": 1,
+                                "assists": 1,
+                                "score": 545,
+                                "mvp": true,
+                                "shooting_percentage": 50
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "9a992165c2364f1a883b10fc5327da98"
+                        },
+                        "name": "Blaster.isbanned",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1465,
+                                "total_distance": 610931
+                            },
+                            "core": {
+                                "shots": 4,
+                                "shots_against": 8,
+                                "goals": 2,
+                                "goals_against": 3,
+                                "saves": 0,
+                                "assists": 1,
+                                "score": 444,
+                                "mvp": false,
+                                "shooting_percentage": 50
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198815724073"
+                        },
+                        "name": "Bsharp",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1438,
+                                "total_distance": 596715
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 8,
+                                "goals": 0,
+                                "goals_against": 3,
+                                "saves": 2,
+                                "assists": 1,
+                                "score": 312,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 3,
+                                "taken": 0
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "blue": {
+                "name": "MANGA",
+                "match_id": "8f7cabff-26ba-49bf-a672-6d51723d9e74",
+                "match_date": "2021-08-19T21:57:27Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "fc1a9af1c0b9488fb678a07b79392cad"
+                        },
+                        "name": "TR BeShOy",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1504,
+                                "total_distance": 467227
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 7,
+                                "goals": 0,
+                                "goals_against": 1,
+                                "saves": 4,
+                                "assists": 0,
+                                "score": 363,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 1
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "ps4",
+                            "id": "ak559ram"
+                        },
+                        "name": "ak559ram",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1504,
+                                "total_distance": 469371
+                            },
+                            "core": {
+                                "shots": 3,
+                                "shots_against": 7,
+                                "goals": 0,
+                                "goals_against": 1,
+                                "saves": 2,
+                                "assists": 0,
+                                "score": 362,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "epic",
+                            "id": "1bc6c6733f0d423785729728aa04f8b4"
+                        },
+                        "name": "MrWeza7",
+                        "car_name": "Fennec",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1260,
+                                "total_distance": 389871
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 7,
+                                "goals": 0,
+                                "goals_against": 1,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 230,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    }
+                ]
+            },
+            "orange": {
+                "name": "BABABOOEY",
+                "match_id": "8f7cabff-26ba-49bf-a672-6d51723d9e74",
+                "match_date": "2021-08-19T21:57:27Z",
+                "players": [
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198274220626"
+                        },
+                        "name": "Omar",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1691,
+                                "total_distance": 523765
+                            },
+                            "core": {
+                                "shots": 4,
+                                "shots_against": 5,
+                                "goals": 1,
+                                "goals_against": 0,
+                                "saves": 0,
+                                "assists": 0,
+                                "score": 302,
+                                "mvp": true,
+                                "shooting_percentage": 25
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198825245008"
+                        },
+                        "name": "I3bdoGX",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1526,
+                                "total_distance": 474482
+                            },
+                            "core": {
+                                "shots": 1,
+                                "shots_against": 5,
+                                "goals": 0,
+                                "goals_against": 0,
+                                "saves": 2,
+                                "assists": 0,
+                                "score": 206,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 0,
+                                "taken": 0
+                            }
+                        }
+                    },
+                    {
+                        "id": {
+                            "platform": "steam",
+                            "id": "76561198808310871"
+                        },
+                        "name": "3R7",
+                        "car_name": "Octane",
+                        "stats": {
+                            "movement": {
+                                "avg_speed": 1430,
+                                "total_distance": 442227
+                            },
+                            "core": {
+                                "shots": 2,
+                                "shots_against": 5,
+                                "goals": 0,
+                                "goals_against": 0,
+                                "saves": 0,
+                                "assists": 1,
+                                "score": 184,
+                                "mvp": false,
+                                "shooting_percentage": 0
+                            },
+                            "demo": {
+                                "inflicted": 1,
+                                "taken": 0
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
